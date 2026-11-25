@@ -1,16 +1,19 @@
-## Hi there 👋
+# Abdulloh Anvarov
 
-<!--
-**abdullohanvarov/abdullohanvarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Flutter Developer
 
-Here are some ideas to get you started:
+I build practical applications with Flutter and Dart, focusing on clear, intuitive experiences across mobile and desktop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+### [Zeravi](https://github.com/abdullohanvarov/zeravi)
+
+A Flutter desktop workspace for managing remote Linux servers. It brings SSH connections, server monitoring, remote file browsing, and terminal tools into one app.
+
+## Core tools
+
+**Flutter · Dart**
+
+## More
+
+[Portfolio](https://anvarov.me) · [GitHub repositories](https://github.com/abdullohanvarov?tab=repositories)
